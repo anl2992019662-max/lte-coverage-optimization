@@ -1,0 +1,732 @@
+<?xml version="1.0"?>
+<SCModel>
+  <Name>越区覆盖</Name>
+  <Description />
+  <SpaceType>Megacity</SpaceType>
+  <TRModeName>SPM</TRModeName>
+  <AAModeName>端射阵模型</AAModeName>
+  <LightFlag>false</LightFlag>
+  <MCC>460</MCC>
+  <MNC>40</MNC>
+  <RSRP>-120</RSRP>
+  <Traces>
+    <TraceModel>
+      <TraceID>2</TraceID>
+      <Name>轨迹2</Name>
+      <Points>
+        <GPS>
+          <Lon>114.354741</Lon>
+          <Lat>30.520103</Lat>
+          <Alt>2</Alt>
+        </GPS>
+        <GPS>
+          <Lon>114.355604</Lon>
+          <Lat>30.520103</Lat>
+          <Alt>2</Alt>
+        </GPS>
+        <GPS>
+          <Lon>114.355552</Lon>
+          <Lat>30.518788</Lat>
+          <Alt>2</Alt>
+        </GPS>
+        <GPS>
+          <Lon>114.357148</Lon>
+          <Lat>30.518788</Lat>
+          <Alt>2</Alt>
+        </GPS>
+        <GPS>
+          <Lon>114.357165</Lon>
+          <Lat>30.520675</Lat>
+          <Alt>2</Alt>
+        </GPS>
+        <GPS>
+          <Lon>114.357165</Lon>
+          <Lat>30.520675</Lat>
+          <Alt>2</Alt>
+        </GPS>
+      </Points>
+      <Speed>0</Speed>
+    </TraceModel>
+  </Traces>
+  <NodeBs>
+    <ENodeBModel>
+      <Cells>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>203</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>201</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>202</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>教学1大楼_小区1</CellName>
+          <Azimuth>120</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>6</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>33</Pwr>
+          <Cm>-3</Cm>
+          <PCI>101</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>30</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>101</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>1</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+      </Cells>
+      <Name>教学1大楼</Name>
+      <EnodeBID>1</EnodeBID>
+      <TAC>0</TAC>
+      <DupLexMode>TDD</DupLexMode>
+      <GPS>
+        <Lon>114.352826</Lon>
+        <Lat>30.521144</Lat>
+        <Alt>60</Alt>
+      </GPS>
+      <SpaceType>Megacity</SpaceType>
+    </ENodeBModel>
+    <ENodeBModel>
+      <Cells>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>101</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>203</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>202</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>302</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>303</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>301</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>办公楼_小区1</CellName>
+          <Azimuth>0</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>10</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>15</Pwr>
+          <Cm>-3</Cm>
+          <PCI>201</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>20</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>201</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>101</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>201</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>202</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>302</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>303</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>301</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>办公楼_小区3</CellName>
+          <Azimuth>222</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>3</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>33</Pwr>
+          <Cm>-3</Cm>
+          <PCI>203</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>20</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>203</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>101</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>201</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>203</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>302</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>303</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>301</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>办公楼_小区2</CellName>
+          <Azimuth>114</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>3</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>33</Pwr>
+          <Cm>-3</Cm>
+          <PCI>202</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>20</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>202</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+      </Cells>
+      <Name>办公楼</Name>
+      <EnodeBID>2</EnodeBID>
+      <TAC>0</TAC>
+      <DupLexMode>TDD</DupLexMode>
+      <GPS>
+        <Lon>114.356294</Lon>
+        <Lat>30.520612</Lat>
+        <Alt>8</Alt>
+      </GPS>
+      <SpaceType>Megacity</SpaceType>
+    </ENodeBModel>
+    <ENodeBModel>
+      <Cells>
+        <CellModel>
+          <NCells />
+          <InterReslectParams />
+          <CellName>东区教工公寓_小区2</CellName>
+          <Azimuth>120</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>3</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>15</Pwr>
+          <Cm>-3</Cm>
+          <PCI>302</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>15</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>302</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>101</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>201</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>202</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>203</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>302</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>301</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>东区教工公寓_小区3</CellName>
+          <Azimuth>301</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>3</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>33</Pwr>
+          <Cm>-3</Cm>
+          <PCI>303</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>15</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>303</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>1</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+        <CellModel>
+          <NCells>
+            <NCellModel>
+              <TargetCellID>101</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>201</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>203</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>202</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>302</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+            <NCellModel>
+              <TargetCellID>303</TargetCellID>
+              <NCellParam />
+            </NCellModel>
+          </NCells>
+          <InterReslectParams />
+          <CellName>东区教工公寓_小区1</CellName>
+          <Azimuth>5</Azimuth>
+          <Sector>90</Sector>
+          <Gs>1.2</Gs>
+          <ElectronicDowntilt>3</ElectronicDowntilt>
+          <Downtilt>10</Downtilt>
+          <Uptilt>9</Uptilt>
+          <RB>0</RB>
+          <Pwr>30</Pwr>
+          <Cm>-3</Cm>
+          <PCI>301</PCI>
+          <Gain>18</Gain>
+          <HHalfPowerAngle>65</HHalfPowerAngle>
+          <N>15</N>
+          <Dlamda>0.125</Dlamda>
+          <VHalfPowerAngle>8</VHalfPowerAngle>
+          <DownEarfcn>41140</DownEarfcn>
+          <UpEarfcn>41140</UpEarfcn>
+          <CellID>301</CellID>
+          <EnableFlag>true</EnableFlag>
+          <CFRAFlag>true</CFRAFlag>
+          <DownInterfereFlag>true</DownInterfereFlag>
+          <UpInterfereFlag>true</UpInterfereFlag>
+          <PolarizationType>双极化</PolarizationType>
+          <TRANSMISSION_MODE>TM1</TRANSMISSION_MODE>
+          <SubFrameAssignmentType>SA2</SubFrameAssignmentType>
+          <SpecialSubFramePatterns>SSP7</SpecialSubFramePatterns>
+          <DL_Band>BAND_20M</DL_Band>
+          <SParam />
+          <InterRParam />
+          <IntraRParam />
+          <ReportConfig>
+            <A1>
+              <Threshold>-90</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A1>
+            <A2>
+              <Threshold>-80</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+            </A2>
+            <A3>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>1</TimeToTrigger>
+              <reportOnLeave>true</reportOnLeave>
+              <A3Offset>2</A3Offset>
+            </A3>
+            <A4>
+              <Threshold>-95</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>3</TimeToTrigger>
+            </A4>
+            <A5>
+              <Threshold>0</Threshold>
+              <Hysteresis>0</Hysteresis>
+              <TimeToTrigger>2</TimeToTrigger>
+              <Threshold1>-100</Threshold1>
+              <Threshold2>-90</Threshold2>
+            </A5>
+          </ReportConfig>
+          <AllowAcessFlag>true</AllowAcessFlag>
+          <WarningType>None</WarningType>
+          <Warning />
+          <UpReferenceFlag>true</UpReferenceFlag>
+          <SchedulingRequestRoute>5</SchedulingRequestRoute>
+        </CellModel>
+      </Cells>
+      <Name>东区教工公寓</Name>
+      <EnodeBID>3</EnodeBID>
+      <TAC>0</TAC>
+      <DupLexMode>TDD</DupLexMode>
+      <GPS>
+        <Lon>114.357267</Lon>
+        <Lat>30.517346</Lat>
+        <Alt>30</Alt>
+      </GPS>
+      <SpaceType>Megacity</SpaceType>
+    </ENodeBModel>
+  </NodeBs>
+  <Buildings />
+  <TabPath>离线地图\越区覆盖 MAP.TAB</TabPath>
+</SCModel>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,28 @@
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.credentials/
+
+# Personal submissions and source document copies
+*.docx
+*.pptx
+*.pdf
+*.zip
+/打印/
+/个人提交/
+~$*
+
+# Large intermediate export caches
+/export-cache/
+*.dat
+*.bin
+__pycache__/
+*.pyc
+Thumbs.db
+Desktop.ini
+.DS_Store
