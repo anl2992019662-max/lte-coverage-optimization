@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="950" viewBox="0 0 1400 950" role="img" aria-label="LTE 案例分析与复现流程">
+<defs><marker id="end" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#47718e"/></marker></defs>
+<rect width="1400" height="950" fill="#fff"/>
+<rect width="1400" height="152" fill="#122b40"/>
+<rect x="44" y="38" width="6" height="75" fill="#3f6bc3"/>
+<text x="72" y="76" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="34" fill="#fff" font-weight="700" text-anchor="start">LTE 案例分析与复现流程</text>
+<text x="74" y="116" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#c9dbe8" font-weight="400" text-anchor="start">原 PPT 展示图、原始测量文件与独立复现分开记录</text>
+<rect x="60" y="195" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="60" y="195" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="79" y="227" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">01 整理输入</text>
+<text x="79" y="256" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">场景 / 工参 / UOD / 原 PPT 截图</text>
+<rect x="760" y="195" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="760" y="195" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="779" y="227" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">02 检查完整性</text>
+<text x="779" y="256" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">哈希、ZIP、XML 与小区对应关系</text>
+<rect x="760" y="400" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="760" y="400" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="779" y="432" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">03 定位问题类型</text>
+<text x="779" y="461" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">重叠覆盖主覆盖关系 / 越区覆盖范围</text>
+<rect x="60" y="400" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="60" y="400" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="79" y="432" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">04 核对参数方案</text>
+<text x="79" y="461" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">方位角、下倾角、邻区与切换参数</text>
+<rect x="60" y="605" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="60" y="605" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="79" y="637" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">05 重新运行仿真</text>
+<text x="79" y="666" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">需合法取得配套软件与地图资源</text>
+<rect x="760" y="605" width="580" height="145" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="760" y="605" width="5" height="145" rx="2" fill="#3f6bc3"/>
+<text x="779" y="637" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">06 核实前后数据</text>
+<text x="779" y="666" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">确认测量配对后再计算 RSRP / SINR</text>
+<polyline points="642,267 748,267" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="1060,342 1060,375" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="758,472 652,472" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="350,547 350,580" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="642,677 748,677" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<rect x="44" y="855" width="1312" height="70" rx="10" fill="#edf3f7"/>
+<text x="65" y="883" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">截图保留原 PPT 的前后标记与数值；它们不是本仓库新增的复现结果。</text>
+<text x="65" y="908" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">已知两个不同案例标记的 UOD 字节相同，数据配对待核实，详见 docs/VALIDATION.md。</text>
+</svg>

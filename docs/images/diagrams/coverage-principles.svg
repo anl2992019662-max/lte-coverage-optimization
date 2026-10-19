@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-label="重叠覆盖与越区覆盖概念示意">
+<defs><marker id="end" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#47718e"/></marker></defs>
+<rect width="1400" height="850" fill="#fff"/>
+<rect width="1400" height="152" fill="#122b40"/>
+<rect x="44" y="38" width="6" height="75" fill="#3f6bc3"/>
+<text x="72" y="76" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="34" fill="#fff" font-weight="700" text-anchor="start">重叠覆盖与越区覆盖概念示意</text>
+<text x="74" y="116" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#c9dbe8" font-weight="400" text-anchor="start">几何示意不使用真实地图或实际测量数值</text>
+<rect x="44" y="195" width="635" height="500" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="44" y="195" width="5" height="500" rx="2" fill="#3f6bc3"/>
+<text x="63" y="227" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">重叠覆盖</text>
+<text x="63" y="256" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">多个小区同时覆盖问题区域</text>
+<text x="63" y="285" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">需要结合测量判断主覆盖关系</text>
+<ellipse cx="220" cy="444" rx="135" ry="80" fill="#3f6bc3" opacity=".13"/>
+<path d="M220 384l-26 110h52Z M204 453h32 M197 479h46" fill="none" stroke="#3f6bc3" stroke-width="4"/>
+<circle cx="220" cy="379" r="8" fill="#3f6bc3"/>
+<ellipse cx="455" cy="444" rx="135" ry="80" fill="#cc8a29" opacity=".13"/>
+<path d="M455 384l-26 110h52Z M439 453h32 M432 479h46" fill="none" stroke="#cc8a29" stroke-width="4"/>
+<circle cx="455" cy="379" r="8" fill="#cc8a29"/>
+<ellipse cx="340" cy="565" rx="135" ry="80" fill="#4c9666" opacity=".13"/>
+<path d="M340 505l-26 110h52Z M324 574h32 M317 600h46" fill="none" stroke="#4c9666" stroke-width="4"/>
+<circle cx="340" cy="500" r="8" fill="#4c9666"/>
+<text x="330" y="659" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#405c71" font-weight="400" text-anchor="middle">主覆盖关系不清晰时需核查干扰</text>
+<rect x="721" y="195" width="635" height="500" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="721" y="195" width="5" height="500" rx="2" fill="#3f6bc3"/>
+<text x="740" y="227" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">越区覆盖</text>
+<text x="740" y="256" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">远处小区信号跨越预期服务范围</text>
+<text x="740" y="285" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">同时检查本地覆盖、邻区与切换参数</text>
+<path d="M860 385l-26 110h52Z M844 454h32 M837 480h46" fill="none" stroke="#cc8a29" stroke-width="4"/>
+<circle cx="860" cy="380" r="8" fill="#cc8a29"/>
+<path d="M1130 450l-26 110h52Z M1114 519h32 M1107 545h46" fill="none" stroke="#3f6bc3" stroke-width="4"/>
+<circle cx="1130" cy="445" r="8" fill="#3f6bc3"/>
+<path d="M860 378L1290 430L1290 535Z" fill="#cc8a29" opacity=".16"/>
+<polyline points="880,420 1230,465" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<text x="845" y="630" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#183448" font-weight="400" text-anchor="middle">远处小区</text>
+<text x="1195" y="630" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#183448" font-weight="400" text-anchor="middle">问题区域</text>
+<rect x="44" y="755" width="1312" height="70" rx="10" fill="#edf3f7"/>
+<text x="65" y="783" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">以上只解释概念，不宣称仿真或现实网络已达到某个优化效果。</text>
+<text x="65" y="808" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">原图里的地图和统计结果见 docs/GALLERY.md，保留课程仿真与数据待核实说明。</text>
+</svg>

@@ -1,0 +1,376 @@
+{
+  "updated_on": "2026-10-19",
+  "original_document_uploaded": false,
+  "images": [
+    {
+      "id": 5,
+      "path": "docs/images/gallery/lte-05.gif",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image5.gif",
+      "source_sha256": "ec4a41f44b697a85088bb4fe61d256b21b9f889776320deb6a77718d16d2aca0",
+      "published_sha256": "ec4a41f44b697a85088bb4fe61d256b21b9f889776320deb6a77718d16d2aca0",
+      "source_locations": [
+        "ppt/slides/slide6.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        480,
+        325
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原采集动画",
+      "caption": "PPT 第 6 页标注的数据采集画面，保留原 GIF。"
+    },
+    {
+      "id": 6,
+      "path": "docs/images/gallery/lte-06.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image6.png",
+      "source_sha256": "52426e54ddd45884352ca350ba7769495bb2fbd863f59bd4c291cabf2774ca03",
+      "published_sha256": "52426e54ddd45884352ca350ba7769495bb2fbd863f59bd4c291cabf2774ca03",
+      "source_locations": [
+        "ppt/slides/slide7.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1174,
+        682
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖分析地图",
+      "caption": "PPT 第 7 页的问题区域与小区覆盖截图。"
+    },
+    {
+      "id": 7,
+      "path": "docs/images/gallery/lte-07.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image7.png",
+      "source_sha256": "5fbc617beaa290778ded4c94ab80f66d90991106f0e047f0700010dcea433ad7",
+      "published_sha256": "5fbc617beaa290778ded4c94ab80f66d90991106f0e047f0700010dcea433ad7",
+      "source_locations": [
+        "ppt/slides/slide7.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1522,
+        1270
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记前 RSRP 统计",
+      "caption": "PPT 第 7 页的统计截图；数值来源于原演示文稿，未在本次独立计算。"
+    },
+    {
+      "id": 8,
+      "path": "docs/images/gallery/lte-08.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image8.png",
+      "source_sha256": "75b6c4c852e3817777bdb4c2e158811775df5f0bdba7f3696673986524357cc8",
+      "published_sha256": "75b6c4c852e3817777bdb4c2e158811775df5f0bdba7f3696673986524357cc8",
+      "source_locations": [
+        "ppt/slides/slide7.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1520,
+        1202
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记前 SINR 统计",
+      "caption": "PPT 第 7 页的统计截图；保留历史显示内容。"
+    },
+    {
+      "id": 9,
+      "path": "docs/images/gallery/lte-09.gif",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image9.gif",
+      "source_sha256": "1780df10dba916c2c52b327c0166f78c4f08d9b3325187d9a223487e08f694ec",
+      "published_sha256": "1780df10dba916c2c52b327c0166f78c4f08d9b3325187d9a223487e08f694ec",
+      "source_locations": [
+        "ppt/slides/slide8.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        480,
+        306
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记后采集动画",
+      "caption": "PPT 第 8 页标注为优化操作后的采集画面。"
+    },
+    {
+      "id": 10,
+      "path": "docs/images/gallery/lte-10.jpeg",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image10.jpeg",
+      "source_sha256": "447ed3b10a66b28a182349aca546d4632f3964d6e5e526207ef85b82bbdc6d9c",
+      "published_sha256": "447ed3b10a66b28a182349aca546d4632f3964d6e5e526207ef85b82bbdc6d9c",
+      "source_locations": [
+        "ppt/slides/slide9.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1270,
+        841
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记后地图",
+      "caption": "PPT 第 9 页的地图截图，按原资料的前后标签展示。"
+    },
+    {
+      "id": 11,
+      "path": "docs/images/gallery/lte-11.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image11.png",
+      "source_sha256": "673af9360b1a15b3f126870f31dba0694e18d5472704bf7fde6376fefa2aaad6",
+      "published_sha256": "673af9360b1a15b3f126870f31dba0694e18d5472704bf7fde6376fefa2aaad6",
+      "source_locations": [
+        "ppt/slides/slide9.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1530,
+        1176
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记后 RSRP 统计",
+      "caption": "PPT 第 9 页的统计截图，不视为本仓库独立复现的改善证据。"
+    },
+    {
+      "id": 12,
+      "path": "docs/images/gallery/lte-12.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image12.png",
+      "source_sha256": "26fb5d64338006556e030214f4fae142a8913afa57bea839b1dc13b0dea21fe2",
+      "published_sha256": "26fb5d64338006556e030214f4fae142a8913afa57bea839b1dc13b0dea21fe2",
+      "source_locations": [
+        "ppt/slides/slide9.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        1526,
+        1194
+      ],
+      "kind": "original-document-image",
+      "title": "重叠覆盖原标记后 SINR 统计",
+      "caption": "PPT 第 9 页的统计截图；前后文件配对及指标仍需核实。"
+    },
+    {
+      "id": 13,
+      "path": "docs/images/gallery/lte-13.gif",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image13.gif",
+      "source_sha256": "9e34b66631c29c06f61a914f36160a559bc6a588df29eeed397e8dd23dd16099",
+      "published_sha256": "9e34b66631c29c06f61a914f36160a559bc6a588df29eeed397e8dd23dd16099",
+      "source_locations": [
+        "ppt/slides/slide12.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        480,
+        330
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原采集动画",
+      "caption": "PPT 第 12 页标注的数据采集画面，保留原 GIF。"
+    },
+    {
+      "id": 14,
+      "path": "docs/images/gallery/lte-14.jpeg",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image14.jpeg",
+      "source_sha256": "17690ff20078d087b13ebc40f72d72bb57d4db753625ff51f62eed1d83485919",
+      "published_sha256": "17690ff20078d087b13ebc40f72d72bb57d4db753625ff51f62eed1d83485919",
+      "source_locations": [
+        "ppt/slides/slide13.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        692,
+        442
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖分析地图",
+      "caption": "PPT 第 13 页的远处与本地小区覆盖截图。"
+    },
+    {
+      "id": 15,
+      "path": "docs/images/gallery/lte-15.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image15.png",
+      "source_sha256": "3aff0043a22a51b4a73de86adb15fac7c6f0e3e49818a00e5431b816f849ab9f",
+      "published_sha256": "3aff0043a22a51b4a73de86adb15fac7c6f0e3e49818a00e5431b816f849ab9f",
+      "source_locations": [
+        "ppt/slides/slide13.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        865,
+        670
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记前 RSRP 统计",
+      "caption": "PPT 第 13 页的统计界面；不据此认定当前 UOD 已经正确配对。"
+    },
+    {
+      "id": 16,
+      "path": "docs/images/gallery/lte-16.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image16.png",
+      "source_sha256": "1012dc94fe1acb794db5a621c59f86993af1b3c7e93b8ec504edea86c7f5cdd5",
+      "published_sha256": "1012dc94fe1acb794db5a621c59f86993af1b3c7e93b8ec504edea86c7f5cdd5",
+      "source_locations": [
+        "ppt/slides/slide13.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        865,
+        675
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记前 SINR 统计",
+      "caption": "PPT 第 13 页的原始统计截图，未独立重算。"
+    },
+    {
+      "id": 17,
+      "path": "docs/images/gallery/lte-17.gif",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image17.gif",
+      "source_sha256": "c2662fe981315a880a10abec1fac18c40b90977b388c4d4ce9a587340820efd9",
+      "published_sha256": "c2662fe981315a880a10abec1fac18c40b90977b388c4d4ce9a587340820efd9",
+      "source_locations": [
+        "ppt/slides/slide14.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        480,
+        336
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记后采集动画",
+      "caption": "PPT 第 14 页标注为优化操作后的采集画面。"
+    },
+    {
+      "id": 18,
+      "path": "docs/images/gallery/lte-18.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image18.png",
+      "source_sha256": "e0a5bd6e5d3510295a0caf1337f2a4235d25ef4d93a1bcd318485c27e8a271ba",
+      "published_sha256": "e0a5bd6e5d3510295a0caf1337f2a4235d25ef4d93a1bcd318485c27e8a271ba",
+      "source_locations": [
+        "ppt/slides/slide15.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        865,
+        595
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记后地图",
+      "caption": "PPT 第 15 页的覆盖截图，属于课程仿真展示。"
+    },
+    {
+      "id": 19,
+      "path": "docs/images/gallery/lte-19.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image19.png",
+      "source_sha256": "3c749f1bfc4c693cd11bb196bf9c6464e2e2bdf665540fefb19144c5c42a1686",
+      "published_sha256": "3c749f1bfc4c693cd11bb196bf9c6464e2e2bdf665540fefb19144c5c42a1686",
+      "source_locations": [
+        "ppt/slides/slide15.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        865,
+        667
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记后 RSRP 统计",
+      "caption": "PPT 第 15 页的统计截图，原数值不代表新增的复现结论。"
+    },
+    {
+      "id": 20,
+      "path": "docs/images/gallery/lte-20.png",
+      "source_document": "网络优化-LTE网络交叉覆盖问题分析与优化.pptx",
+      "embedded_media": "ppt/media/image20.png",
+      "source_sha256": "e84ac3064babeb38b03e9d3d04c1bcec5428713afac03c5a8d1d2d2aa9493e3e",
+      "published_sha256": "e84ac3064babeb38b03e9d3d04c1bcec5428713afac03c5a8d1d2d2aa9493e3e",
+      "source_locations": [
+        "ppt/slides/slide15.xml"
+      ],
+      "ooxml_placement": {
+        "rotation": 0.0,
+        "crop": {}
+      },
+      "metadata_stripped": false,
+      "dimensions": [
+        865,
+        666
+      ],
+      "kind": "original-document-image",
+      "title": "越区覆盖原标记后 SINR 统计",
+      "caption": "PPT 第 15 页的统计截图；已知资料疑点见 VALIDATION.md。"
+    }
+  ],
+  "processing_note": "保留图像内容。必要的旋转与裁切还原原 OOXML 页面显示，导出时删除 EXIF/XMP 等元数据。无 AI 重绘实物照片、界面或测量图。",
+  "new_diagrams": "docs/images/diagrams/*.svg 为根据当前公开代码与资料重新绘制的功能示意。"
+}

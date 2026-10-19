@@ -1,5 +1,19 @@
 # LTE 网络交叉覆盖问题分析与优化
 
+<!-- project-gallery:start -->
+
+<table><tr><td width="50%" align="center"><img src="docs/images/gallery/lte-06.png" width="390" alt="重叠覆盖分析地图"><br>重叠覆盖案例原截图</td><td width="50%" align="center"><img src="docs/images/gallery/lte-18.png" width="390" alt="越区覆盖原标记后地图"><br>越区覆盖案例原截图</td></tr></table>
+
+原 PPT 的课程仿真截图；两个单元格展示不同案例，不是同一场景的前后对比。数据配对疑点仍待核实。
+
+**[查看完整图集：16 张原图及专题结构图](docs/GALLERY.md)**
+
+## 系统总结构
+
+![系统总结构](docs/images/diagrams/architecture.svg)
+
+<!-- project-gallery:end -->
+
 LTE 网络优化课程仿真案例，围绕重叠覆盖（原资料也称导频污染）与越区覆盖，整理场景文件、基站参数、测量导出数据及分析说明。
 
 本项目使用课程仿真数据，数据提供者已确认允许公开。目录包含地图场景坐标和小区参数，它们属于课程仿真设定，不代表对现实运营商网络的实测结论。本项目研究对象为 LTE，未实现独立的 5G 网络优化程序。

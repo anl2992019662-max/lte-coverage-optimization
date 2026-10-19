@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000" role="img" aria-label="LTE 交叉覆盖案例总结构">
+<defs><marker id="end" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#47718e"/></marker></defs>
+<rect width="1400" height="1000" fill="#fff"/>
+<rect width="1400" height="152" fill="#122b40"/>
+<rect x="44" y="38" width="6" height="75" fill="#3f6bc3"/>
+<text x="72" y="76" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="34" fill="#fff" font-weight="700" text-anchor="start">LTE 交叉覆盖案例总结构</text>
+<text x="74" y="116" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="18" fill="#c9dbe8" font-weight="400" text-anchor="start">课程仿真案例   输入资料、核对过程与两类问题分析</text>
+<text x="52" y="198" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="22" fill="#3f6bc3" font-weight="700" text-anchor="start">输入与采集</text>
+<text x="1018" y="198" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="22" fill="#3f6bc3" font-weight="700" text-anchor="start">输出与展示</text>
+<rect x="44" y="222" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="44" y="222" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="63" y="254" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">场景文件</text>
+<text x="63" y="283" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">重叠覆盖 / 越区覆盖 .scene</text>
+<text x="63" y="312" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">场景与小区参数</text>
+<rect x="44" y="362" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="44" y="362" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="63" y="394" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">基站工参</text>
+<text x="63" y="423" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">小区 ID、PCI、方位角</text>
+<text x="63" y="452" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">CSV 与场景对应关系</text>
+<rect x="44" y="502" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="44" y="502" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="63" y="534" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">测量与截图</text>
+<text x="63" y="563" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">原始 .uod 测量导出包</text>
+<text x="63" y="592" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">PPT 中的地图与统计界面</text>
+<rect x="1006" y="222" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="1006" y="222" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="1025" y="254" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">重叠覆盖分析</text>
+<text x="1025" y="283" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">识别主覆盖关系</text>
+<text x="1025" y="312" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">讨论干扰小区方位角调整</text>
+<rect x="1006" y="362" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="1006" y="362" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="1025" y="394" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">越区覆盖分析</text>
+<text x="1025" y="423" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">讨论覆盖范围、邻区关系</text>
+<text x="1025" y="452" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">天线参数与切换参数</text>
+<rect x="1006" y="502" width="350" height="116" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="1006" y="502" width="5" height="116" rx="2" fill="#3f6bc3"/>
+<text x="1025" y="534" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">结果的证据边界</text>
+<text x="1025" y="563" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">原图保留历史展示数值</text>
+<text x="1025" y="592" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">不将截图视为独立复现证明</text>
+<rect x="520" y="326" width="360" height="180" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="520" y="326" width="5" height="180" rx="2" fill="#3f6bc3"/>
+<text x="539" y="358" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="24" fill="#17374d" font-weight="700" text-anchor="start">资料核对与案例整理</text>
+<text x="539" y="387" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">哈希 / ZIP / XML / CSV</text>
+<text x="539" y="416" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">检查重复项与来源对应</text>
+<polyline points="399,280 449,280 449,416 508,416" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="892,416 948,416 948,280 994,280" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="399,420 449,420 449,416 508,416" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="892,416 948,416 948,420 994,420" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="399,560 449,560 449,416 508,416" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<polyline points="892,416 948,416 948,560 994,560" fill="none" stroke="#47718e" stroke-width="2.5" stroke-linejoin="round" marker-end="url(#end)"/>
+<rect x="44" y="686" width="412" height="153" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="44" y="686" width="5" height="153" rx="2" fill="#3f6bc3"/>
+<text x="63" y="718" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">原始数据</text>
+<text x="63" y="747" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">随仓库提供仿真场景和数据</text>
+<text x="63" y="776" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">不包含配套商业软件与地图</text>
+<rect x="494" y="686" width="412" height="153" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="494" y="686" width="5" height="153" rx="2" fill="#3f6bc3"/>
+<text x="513" y="718" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">已知疑点</text>
+<text x="513" y="747" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">两个不同标记的 UOD 相同</text>
+<text x="513" y="776" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">各版本部分指标不一致</text>
+<rect x="944" y="686" width="412" height="153" rx="12" fill="#f5f8fb" stroke="#c8d9e5"/>
+<rect x="944" y="686" width="5" height="153" rx="2" fill="#3f6bc3"/>
+<text x="963" y="718" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="20" fill="#17374d" font-weight="700" text-anchor="start">后续复现</text>
+<text x="963" y="747" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">核实前后数据配对</text>
+<text x="963" y="776" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="17" fill="#4d6678" font-weight="400" text-anchor="start">再用合法软件计算指标</text>
+<rect x="44" y="905" width="1312" height="70" rx="10" fill="#edf3f7"/>
+<text x="65" y="933" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">示意图中的逻辑不代表真实运营商网络的实测结果。所有原图按 PPT 页码标注来源。</text>
+<text x="65" y="958" font-family="Microsoft YaHei, Noto Sans SC, Arial, sans-serif" font-size="16" fill="#425f73" font-weight="400" text-anchor="start">本仓库仍保留数据配对待核实说明，未新增优化提升百分比等独立结论。</text>
+</svg>
